@@ -1,0 +1,3 @@
+url admin :http://localhost/portopolio/public/Admin/login
+username admin : admin
+password admin : admin
